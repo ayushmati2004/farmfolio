@@ -62,13 +62,13 @@ function App() {
     <div>
       <Navigation account={account} setAccount={setAccount} />
 
-      <h2>Dappazon Best Sellers</h2>
+      <h2>Farmfolio Best Sellers</h2>
 
       {electronics && clothing && toys && (
         <>
-          <Section title={"Clothing & Jewelry"} items={clothing} togglePop={togglePop} />
-          <Section title={"Electronics & Gadgets"} items={electronics} togglePop={togglePop} />
-          <Section title={"Toys & Gaming"} items={toys} togglePop={togglePop} />
+          <Section title={"Fertilizers"} items={clothing} togglePop={togglePop} />
+          <Section title={"Seeds"} items={electronics} togglePop={togglePop} />
+          <Section title={"Pesticides"} items={toys} togglePop={togglePop} />
         </>
       )}
 

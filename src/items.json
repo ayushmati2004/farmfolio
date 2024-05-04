@@ -2,7 +2,7 @@
   "items": [
     {
       "id": 1,
-      "name": "Camera",
+      "name": "Rice",
       "category": "electronics",
       "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/camera.jpg",
       "price": "1",
@@ -11,7 +11,7 @@
     },
     {
       "id": 2,
-      "name": "Drone",
+      "name": "Wheat",
       "category": "electronics",
       "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/drone.jpg",
       "price": "2",
@@ -20,7 +20,7 @@
     },
     {
       "id": 3,
-      "name": "Headset",
+      "name": "Groundnut",
       "category": "electronics",
       "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/headset.jpg",
       "price": "0.25",
@@ -29,7 +29,7 @@
     },
     {
       "id": 4,
-      "name": "Shoes",
+      "name": "Nitrozen Fertilzers",
       "category": "clothing",
       "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/shoes.jpg",
       "price": "0.25",
@@ -38,7 +38,7 @@
     },
     {
       "id": 5,
-      "name": "Sunglasses",
+      "name": "Potassium Fertilizers",
       "category": "clothing",
       "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/sunglasses.jpg",
       "price": "0.10",
@@ -47,7 +47,7 @@
     },
     {
       "id": 6,
-      "name": "Watch",
+      "name": "Phosphate Fertlizers ",
       "category": "clothing",
       "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/watch.jpg",
       "price": "1.25",
@@ -56,7 +56,7 @@
     },
     {
       "id": 7,
-      "name": "Puzzle Cube",
+      "name": "Fungicide",
       "category": "toys",
       "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/cube.jpg",
       "price": "0.05",
@@ -65,7 +65,7 @@
     },
     {
       "id": 8,
-      "name": "Train Set",
+      "name": "Herbicide",
       "category": "toys",
       "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/train.jpg",
       "price": "0.20",
@@ -74,7 +74,7 @@
     },
     {
       "id": 9,
-      "name": "Robot Set",
+      "name": "Insectcide",
       "category": "toys",
       "image": "https://ipfs.io/ipfs/QmTYEboq8raiBs7GTUg2yLXB3PMz6HuBNgNfSZBx5Msztg/robots.jpg",
       "price": "0.15",
